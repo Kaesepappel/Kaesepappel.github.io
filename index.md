@@ -18,5 +18,7 @@ das ist die Beschreibung des Charakters, was für eine saublöde Übung, Leute
 
 > ein Zitat ist ein Zitat ist ein Zitat  
 
+<img src="https://pgcpsmess.files.wordpress.com/2014/03/bald_eagle-1541817.jpg">
+
 
 
